@@ -1,5 +1,5 @@
 {
-  "name": "password-strength-meter",
+  "name": "@bfsc/password-strength-meter",
   "version": "3.0.1",
   "scripts": {
     "ng": "ng",
@@ -19,7 +19,7 @@
     "postinstall": "ngcc"
   },
   "keywords": [
-    "angular 10",
+    "angular 13",
     "password-strength",
     "password-strength-component",
     "password-strength-meter",
