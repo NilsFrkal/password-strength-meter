@@ -11,4 +11,4 @@ import { PasswordStrengthMeterModule } from 'angular-password-strength-meter';
   providers: [],
   bootstrap: [AppComponent]
 })
-export class AppModule {}
+export class AppModule { }

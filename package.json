@@ -1,5 +1,5 @@
 {
-  "name": "@bfsc/password-strength-meter",
+  "name": "@info.bfsc/password-strength-meter",
   "version": "3.0.1",
   "scripts": {
     "ng": "ng",
